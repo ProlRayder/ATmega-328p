@@ -1,5 +1,4 @@
-# Arduino
-Comunicação Serial utilizando o microcontrolador ATmega 328p
+# Comunicação Serial utilizando o microcontrolador ATmega 328p
 
 O projeto consiste na comunicação serial entre os pinos do arduino mestre e escravo,
 é utilizado o keypad para comunicação com o arduino mestre, no quão converte o valor lido de string para binário
