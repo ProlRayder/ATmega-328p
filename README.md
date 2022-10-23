@@ -6,6 +6,7 @@ e envia as informações ao arduino escravo em formato bit por bit.
 Após a leitura é convertido para ser mostrado no display. 
 
 URL do projeto: https://www.tinkercad.com/things/4HOoJ0JbaR2
+
 Manual de operação: Em desenvolvimento
 Manual técnico: Em desenvolvimento
 
