@@ -11,6 +11,5 @@ Manual de operação: Em desenvolvimento
 
 Manual técnico: Em desenvolvimento
 
-![manual técnico](https://user-images.githubusercontent.com/44483048/196742522-16595122-1a46-4af4-933c-eaad25fe14e2.png)
 
 Projeto desenvolvido nas aulas de Arquitetura e Programação de Sistemas Microcontrolados
