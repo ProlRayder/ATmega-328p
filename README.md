@@ -14,4 +14,4 @@ Manual de operação: Em desenvolvimento
 Manual técnico: Em desenvolvimento
 
 
-Projeto desenvolvido nas aulas de Arquitetura e Programação de Sistemas Microcontrolados
+Obs: Projeto desenvolvido nas aulas de Arquitetura e Programação de Sistemas Microcontrolados
